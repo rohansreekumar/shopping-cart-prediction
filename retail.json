@@ -1,0 +1,1008 @@
+[{
+        "registeredStoreName": "testStore",
+        "displayStoreName": "Test",
+        "companyType": {},
+        "storeSize": {},
+        "storeType": "Fruits, Vegetables",
+        "ownerName": "Abc",
+        "ownerContact": 12345,
+        "managers": ["acd"],
+        "address": {},
+        "items": [{
+                "itemid": "orderitem_kbgb1pab",
+                "name": "Banana",
+                "quantity": 500,
+                "uom": "gms",
+                "rate": 10,
+                "discount": "",
+                "price": "",
+                "status": "Edited",
+                "serial": {
+                    "$numberInt": "1"
+                }
+            },
+            {
+                "itemid": "orderitem_kbgb51gw",
+                "name": "Banana robest",
+                "quantity": 500,
+                "uom": "gms",
+                "rate": 40,
+                "discount": 0,
+                "price": {
+                    "$numberInt": "40"
+                },
+                "status": "Added",
+                "serial": {
+                    "$numberInt": "1"
+                }
+            },
+            {
+                "itemid": "orderitem_kbgb1pab1",
+                "name": "Strawberry",
+                "quantity": 500,
+                "uom": "gms",
+                "rate": 50,
+                "discount": "",
+                "price": "",
+                "status": "Edited",
+                "serial": {
+                    "$numberInt": "1"
+                }
+            }, {
+                "itemid": "orderitem_kbgb1pab2",
+                "name": "Mushroom",
+                "quantity": 500,
+                "uom": "gms",
+                "rate": 30,
+                "discount": "",
+                "price": "",
+                "status": "Edited",
+                "serial": {
+                    "$numberInt": "1"
+                }
+            }, {
+                "itemid": "orderitem_kbgb1pab3",
+                "name": "Zucchini",
+                "quantity": 500,
+                "uom": "gms",
+                "rate": 30,
+                "discount": "",
+                "price": "",
+                "status": "Edited",
+                "serial": {
+                    "$numberInt": "1"
+                }
+            }, {
+                "itemid": "orderitem_kbgb1pab4",
+                "name": "Shallots",
+                "quantity": 500,
+                "uom": "gms",
+                "rate": 10,
+                "discount": "",
+                "price": "",
+                "status": "Edited",
+                "serial": {
+                    "$numberInt": "1"
+                }
+            }, {
+                "itemid": "orderitem_kbgb1pab5",
+                "name": "Potato",
+                "quantity": 500,
+                "uom": "gms",
+                "rate": 10,
+                "discount": "",
+                "price": "",
+                "status": "Edited",
+                "serial": {
+                    "$numberInt": "1"
+                }
+            }, {
+                "itemid": "orderitem_kbgb1pab6",
+                "name": "Grapes",
+                "quantity": 500,
+                "uom": "gms",
+                "rate": 25,
+                "discount": "",
+                "price": "",
+                "status": "Edited",
+                "serial": {
+                    "$numberInt": "1"
+                }
+            }, {
+                "itemid": "orderitem_kbgb1pab7",
+                "name": "Mint",
+                "quantity": 500,
+                "uom": "gms",
+                "rate": 10,
+                "discount": "",
+                "price": "",
+                "status": "Edited",
+                "serial": {
+                    "$numberInt": "1"
+                }
+            }, {
+                "itemid": "orderitem_kbgb1pab8",
+                "name": "Pickle",
+                "quantity": 500,
+                "uom": "gms",
+                "rate": 30,
+                "discount": "",
+                "price": "",
+                "status": "Edited",
+                "serial": {
+                    "$numberInt": "1"
+                }
+            }, {
+                "itemid": "orderitem_kbgb1pab12",
+                "name": "Olive",
+                "quantity": 500,
+                "uom": "gms",
+                "rate": 40,
+                "discount": "",
+                "price": "",
+                "status": "Edited",
+                "serial": {
+                    "$numberInt": "1"
+                }
+            }, {
+                "itemid": "orderitem_kbgb1pab21",
+                "name": "Water",
+                "quantity": 500,
+                "uom": "gms",
+                "rate": 10,
+                "discount": "",
+                "price": "",
+                "status": "Edited",
+                "serial": {
+                    "$numberInt": "1"
+                }
+            }, {
+                "itemid": "orderitem_kbgb1pab132",
+                "name": "Cauliflower",
+                "quantity": 500,
+                "uom": "gms",
+                "rate": 10,
+                "discount": "",
+                "price": "",
+                "status": "Edited",
+                "serial": {
+                    "$numberInt": "1"
+                }
+            }, {
+                "itemid": "orderitem_kbgb1pab",
+                "name": "Avocado",
+                "quantity": 500,
+                "uom": "gms",
+                "rate": 70,
+                "discount": "",
+                "price": "",
+                "status": "Edited",
+                "serial": {
+                    "$numberInt": "1"
+                }
+            }
+
+        ],
+        "location": {
+            "type": "",
+            "coordinates": ""
+        },
+        "storeImages": [],
+        "delivery": {},
+        "timings": [],
+        "documentation": [],
+        "open": "",
+        "referenceCode": "",
+        "franchiseCode": "",
+        "gcmTokens": [],
+        "isActive": "",
+        "createdAt": "",
+        "updatedAt": ""
+
+    }, {
+        "registeredStoreName": "testStore1",
+        "displayStoreName": "Test1",
+        "companyType": {},
+        "storeSize": {},
+        "storeType": "Grocery",
+        "ownerName": "Abc1",
+        "ownerContact": 123451,
+        "managers": ["acd"],
+        "address": {},
+        "items": [{
+                "itemid": "orderitem_kbgb1pab",
+                "name": "Yogurt",
+                "quantity": 500,
+                "uom": "gms",
+                "rate": 40,
+                "discount": "",
+                "price": "",
+                "status": "Edited",
+                "serial": {
+                    "$numberInt": "1"
+                }
+            }, {
+                "itemid": "orderitem_kbgb51gw",
+                "name": "Oil",
+                "quantity": 500,
+                "uom": "gms",
+                "rate": 30,
+                "discount": 0,
+                "price": {
+                    "$numberInt": "40"
+                },
+                "status": "Added",
+                "serial": {
+                    "$numberInt": "1"
+                }
+            },
+            {
+                "itemid": "orderitem_kbgb1pab1",
+                "name": "Rice",
+                "quantity": 500,
+                "uom": "gms",
+                "rate": 30,
+                "discount": "",
+                "price": "",
+                "status": "Edited",
+                "serial": {
+                    "$numberInt": "1"
+                }
+            }, {
+                "itemid": "orderitem_kbgb1pab2",
+                "name": "Mushroom",
+                "quantity": 500,
+                "uom": "gms",
+                "rate": 30,
+                "discount": "",
+                "price": "",
+                "status": "Edited",
+                "serial": {
+                    "$numberInt": "1"
+                }
+            }, {
+                "itemid": "orderitem_kbgb1pab3",
+                "name": "Wheat",
+                "quantity": 500,
+                "uom": "gms",
+                "rate": 30,
+                "discount": "",
+                "price": "",
+                "status": "Edited",
+                "serial": {
+                    "$numberInt": "1"
+                }
+            }, {
+                "itemid": "orderitem_kbgb1pab4",
+                "name": "Fries",
+                "quantity": 500,
+                "uom": "gms",
+                "rate": 10,
+                "discount": "",
+                "price": "",
+                "status": "Edited",
+                "serial": {
+                    "$numberInt": "1"
+                }
+            }, {
+                "itemid": "orderitem_kbgb1pab5",
+                "name": "Cereal",
+                "quantity": 500,
+                "uom": "gms",
+                "rate": 30,
+                "discount": "",
+                "price": "",
+                "status": "Edited",
+                "serial": {
+                    "$numberInt": "1"
+                }
+            }, {
+                "itemid": "orderitem_kbgb1pab6",
+                "name": "Cheese",
+                "quantity": 500,
+                "uom": "gms",
+                "rate": 50,
+                "discount": "",
+                "price": "",
+                "status": "Edited",
+                "serial": {
+                    "$numberInt": "1"
+                }
+            }, {
+                "itemid": "orderitem_kbgb1pab7",
+                "name": "Bread",
+                "quantity": 500,
+                "uom": "gms",
+                "rate": 10,
+                "discount": "",
+                "price": "",
+                "status": "Edited",
+                "serial": {
+                    "$numberInt": "1"
+                }
+            }, {
+                "itemid": "orderitem_kbgb1pab8",
+                "name": "Honey",
+                "quantity": 500,
+                "uom": "gms",
+                "rate": 30,
+                "discount": "",
+                "price": "",
+                "status": "Edited",
+                "serial": {
+                    "$numberInt": "1"
+                }
+            }, {
+                "itemid": "orderitem_kbgb1pab12",
+                "name": "Milk",
+                "quantity": 500,
+                "uom": "gms",
+                "rate": 20,
+                "discount": "",
+                "price": "",
+                "status": "Edited",
+                "serial": {
+                    "$numberInt": "1"
+                }
+            }, {
+                "itemid": "orderitem_kbgb1pab21",
+                "name": "Chocolate",
+                "quantity": 500,
+                "uom": "gms",
+                "rate": 10,
+                "discount": "",
+                "price": "",
+                "status": "Edited",
+                "serial": {
+                    "$numberInt": "1"
+                }
+            }, {
+                "itemid": "orderitem_kbgb1pab132",
+                "name": "Pepper",
+                "quantity": 500,
+                "uom": "gms",
+                "rate": 10,
+                "discount": "",
+                "price": "",
+                "status": "Edited",
+                "serial": {
+                    "$numberInt": "1"
+                }
+            }, {
+                "itemid": "orderitem_kbgb1pab",
+                "name": "Eggs",
+                "quantity": 500,
+                "uom": "gms",
+                "rate": 10,
+                "discount": "",
+                "price": "",
+                "status": "Edited",
+                "serial": {
+                    "$numberInt": "1"
+                }
+            }
+
+        ],
+        "location": {
+            "type": "",
+            "coordinates": ""
+        },
+        "storeImages": [],
+        "delivery": {},
+        "timings": [],
+        "documentation": [],
+        "open": "",
+        "referenceCode": "",
+        "franchiseCode": "",
+        "gcmTokens": [],
+        "isActive": "",
+        "createdAt": "",
+        "updatedAt": ""
+
+    }, {
+        "registeredStoreName": "testStore2",
+        "displayStoreName": "Test2",
+        "companyType": {},
+        "storeSize": {},
+        "storeType": "Fruits, Vegetables",
+        "ownerName": "Abc2",
+        "ownerContact": 123452,
+        "managers": ["acd"],
+        "address": {},
+        "items": [{
+                "itemid": "orderitem_kbgb1pab",
+                "name": "Banana",
+                "quantity": 500,
+                "uom": "gms",
+                "rate": 10,
+                "discount": "",
+                "price": "",
+                "status": "Edited",
+                "serial": {
+                    "$numberInt": "1"
+                }
+            }, {
+                "itemid": "orderitem_kbgb51gw",
+                "name": "Banana robest",
+                "quantity": 500,
+                "uom": "gms",
+                "rate": 40,
+                "discount": 0,
+                "price": {
+                    "$numberInt": "40"
+                },
+                "status": "Added",
+                "serial": {
+                    "$numberInt": "1"
+                }
+            },
+            {
+                "itemid": "orderitem_kbgb1pab1",
+                "name": "Strawberry",
+                "quantity": 500,
+                "uom": "gms",
+                "rate": 50,
+                "discount": "",
+                "price": "",
+                "status": "Edited",
+                "serial": {
+                    "$numberInt": "1"
+                }
+            }, {
+                "itemid": "orderitem_kbgb1pab2",
+                "name": "Mushroom",
+                "quantity": 500,
+                "uom": "gms",
+                "rate": 30,
+                "discount": "",
+                "price": "",
+                "status": "Edited",
+                "serial": {
+                    "$numberInt": "1"
+                }
+            }, {
+                "itemid": "orderitem_kbgb1pab3",
+                "name": "blueberry",
+                "quantity": 500,
+                "uom": "gms",
+                "rate": 30,
+                "discount": "",
+                "price": "",
+                "status": "Edited",
+                "serial": {
+                    "$numberInt": "1"
+                }
+            }, {
+                "itemid": "orderitem_kbgb1pab4",
+                "name": "Tomato",
+                "quantity": 500,
+                "uom": "gms",
+                "rate": 10,
+                "discount": "",
+                "price": "",
+                "status": "Edited",
+                "serial": {
+                    "$numberInt": "1"
+                }
+            }, {
+                "itemid": "orderitem_kbgb1pab5",
+                "name": "Carrot",
+                "quantity": 500,
+                "uom": "gms",
+                "rate": 30,
+                "discount": "",
+                "price": "",
+                "status": "Edited",
+                "serial": {
+                    "$numberInt": "1"
+                }
+            }, {
+                "itemid": "orderitem_kbgb1pab6",
+                "name": "Grapes",
+                "quantity": 500,
+                "uom": "gms",
+                "rate": 25,
+                "discount": "",
+                "price": "",
+                "status": "Edited",
+                "serial": {
+                    "$numberInt": "1"
+                }
+            }, {
+                "itemid": "orderitem_kbgb1pab7",
+                "name": "Mint",
+                "quantity": 500,
+                "uom": "gms",
+                "rate": 10,
+                "discount": "",
+                "price": "",
+                "status": "Edited",
+                "serial": {
+                    "$numberInt": "1"
+                }
+            }, {
+                "itemid": "orderitem_kbgb1pab8",
+                "name": "Pickle",
+                "quantity": 500,
+                "uom": "gms",
+                "rate": 30,
+                "discount": "",
+                "price": "",
+                "status": "Edited",
+                "serial": {
+                    "$numberInt": "1"
+                }
+            }, {
+                "itemid": "orderitem_kbgb1pab12",
+                "name": "Olive",
+                "quantity": 500,
+                "uom": "gms",
+                "rate": 40,
+                "discount": "",
+                "price": "",
+                "status": "Edited",
+                "serial": {
+                    "$numberInt": "1"
+                }
+            }, {
+                "itemid": "orderitem_kbgb1pab21",
+                "name": "Water",
+                "quantity": 500,
+                "uom": "gms",
+                "rate": 10,
+                "discount": "",
+                "price": "",
+                "status": "Edited",
+                "serial": {
+                    "$numberInt": "1"
+                }
+            }, {
+                "itemid": "orderitem_kbgb1pab132",
+                "name": "Spinach",
+                "quantity": 500,
+                "uom": "gms",
+                "rate": 10,
+                "discount": "",
+                "price": "",
+                "status": "Edited",
+                "serial": {
+                    "$numberInt": "1"
+                }
+            }, {
+                "itemid": "orderitem_kbgb1pab",
+                "name": "Avocado",
+                "quantity": 500,
+                "uom": "gms",
+                "rate": 70,
+                "discount": "",
+                "price": "",
+                "status": "Edited",
+                "serial": {
+                    "$numberInt": "1"
+                }
+            }
+
+        ],
+        "location": {
+            "type": "",
+            "coordinates": ""
+        },
+        "storeImages": [],
+        "delivery": {},
+        "timings": [],
+        "documentation": [],
+        "open": "",
+        "referenceCode": "",
+        "franchiseCode": "",
+        "gcmTokens": [],
+        "isActive": "",
+        "createdAt": "",
+        "updatedAt": ""
+
+    }, {
+        "registeredStoreName": "testStore3",
+        "displayStoreName": "Test3",
+        "companyType": {},
+        "storeSize": {},
+        "storeType": "Grocery",
+        "ownerName": "Abc3",
+        "ownerContact": 123453,
+        "managers": ["acd"],
+        "address": {},
+        "items": [{
+                "itemid": "orderitem_kbgb1pab",
+                "name": "Wheat",
+                "quantity": 500,
+                "uom": "gms",
+                "rate": 30,
+                "discount": "",
+                "price": "",
+                "status": "Edited",
+                "serial": {
+                    "$numberInt": "1"
+                }
+            }, {
+                "itemid": "orderitem_kbgb51gw",
+                "name": "Oil",
+                "quantity": 500,
+                "uom": "gms",
+                "rate": 20,
+                "discount": 0,
+                "price": {
+                    "$numberInt": "40"
+                },
+                "status": "Added",
+                "serial": {
+                    "$numberInt": "1"
+                }
+            },
+            {
+                "itemid": "orderitem_kbgb1pab1",
+                "name": "Rice",
+                "quantity": 500,
+                "uom": "gms",
+                "rate": 50,
+                "discount": "",
+                "price": "",
+                "status": "Edited",
+                "serial": {
+                    "$numberInt": "1"
+                }
+            }, {
+                "itemid": "orderitem_kbgb1pab2",
+                "name": "Yogurt",
+                "quantity": 500,
+                "uom": "gms",
+                "rate": 30,
+                "discount": "",
+                "price": "",
+                "status": "Edited",
+                "serial": {
+                    "$numberInt": "1"
+                }
+            }, {
+                "itemid": "orderitem_kbgb1pab3",
+                "name": "Cake",
+                "quantity": 500,
+                "uom": "gms",
+                "rate": 30,
+                "discount": "",
+                "price": "",
+                "status": "Edited",
+                "serial": {
+                    "$numberInt": "1"
+                }
+            }, {
+                "itemid": "orderitem_kbgb1pab4",
+                "name": "Cheese",
+                "quantity": 500,
+                "uom": "gms",
+                "rate": 60,
+                "discount": "",
+                "price": "",
+                "status": "Edited",
+                "serial": {
+                    "$numberInt": "1"
+                }
+            }, {
+                "itemid": "orderitem_kbgb1pab5",
+                "name": "Cereal",
+                "quantity": 500,
+                "uom": "gms",
+                "rate": 10,
+                "discount": "",
+                "price": "",
+                "status": "Edited",
+                "serial": {
+                    "$numberInt": "1"
+                }
+            }, {
+                "itemid": "orderitem_kbgb1pab6",
+                "name": "Bread",
+                "quantity": 500,
+                "uom": "gms",
+                "rate": 20,
+                "discount": "",
+                "price": "",
+                "status": "Edited",
+                "serial": {
+                    "$numberInt": "1"
+                }
+            }, {
+                "itemid": "orderitem_kbgb1pab7",
+                "name": "Milk",
+                "quantity": 500,
+                "uom": "gms",
+                "rate": 15,
+                "discount": "",
+                "price": "",
+                "status": "Edited",
+                "serial": {
+                    "$numberInt": "1"
+                }
+            }, {
+                "itemid": "orderitem_kbgb1pab8",
+                "name": "Chocolate",
+                "quantity": 500,
+                "uom": "gms",
+                "rate": 30,
+                "discount": "",
+                "price": "",
+                "status": "Edited",
+                "serial": {
+                    "$numberInt": "1"
+                }
+            }, {
+                "itemid": "orderitem_kbgb1pab12",
+                "name": "Muffins",
+                "quantity": 500,
+                "uom": "gms",
+                "rate": 40,
+                "discount": "",
+                "price": "",
+                "status": "Edited",
+                "serial": {
+                    "$numberInt": "1"
+                }
+            }, {
+                "itemid": "orderitem_kbgb1pab21",
+                "name": "Eggs",
+                "quantity": 500,
+                "uom": "gms",
+                "rate": 10,
+                "discount": "",
+                "price": "",
+                "status": "Edited",
+                "serial": {
+                    "$numberInt": "1"
+                }
+            }, {
+                "itemid": "orderitem_kbgb1pab132",
+                "name": "Salt",
+                "quantity": 500,
+                "uom": "gms",
+                "rate": 10,
+                "discount": "",
+                "price": "",
+                "status": "Edited",
+                "serial": {
+                    "$numberInt": "1"
+                }
+            }, {
+                "itemid": "orderitem_kbgb1pab",
+                "name": "Toothpaste",
+                "quantity": 500,
+                "uom": "gms",
+                "rate": 70,
+                "discount": "",
+                "price": "",
+                "status": "Edited",
+                "serial": {
+                    "$numberInt": "1"
+                }
+            }
+
+        ],
+        "location": {
+            "type": "",
+            "coordinates": ""
+        },
+        "storeImages": [],
+        "delivery": {},
+        "timings": [],
+        "documentation": [],
+        "open": "",
+        "referenceCode": "",
+        "franchiseCode": "",
+        "gcmTokens": [],
+        "isActive": "",
+        "createdAt": "",
+        "updatedAt": ""
+
+    }, {
+        "registeredStoreName": "testStore4",
+        "displayStoreName": "Test4",
+        "companyType": {},
+        "storeSize": {},
+        "storeType": "Other",
+        "ownerName": "Abc4",
+        "ownerContact": 123454,
+        "managers": ["acd"],
+        "address": {},
+        "items": [{
+                "itemid": "orderitem_kbgb1pab",
+                "name": "Sandwich",
+                "quantity": 500,
+                "uom": "gms",
+                "rate": 10,
+                "discount": "",
+                "price": "",
+                "status": "Edited",
+                "serial": {
+                    "$numberInt": "1"
+                }
+            }, {
+                "itemid": "orderitem_kbgb51gw",
+                "name": "Shrimp",
+                "quantity": 500,
+                "uom": "gms",
+                "rate": 40,
+                "discount": 0,
+                "price": {
+                    "$numberInt": "40"
+                },
+                "status": "Added",
+                "serial": {
+                    "$numberInt": "1"
+                }
+            },
+            {
+                "itemid": "orderitem_kbgb1pab1",
+                "name": "Tuna",
+                "quantity": 500,
+                "uom": "gms",
+                "rate": 50,
+                "discount": "",
+                "price": "",
+                "status": "Edited",
+                "serial": {
+                    "$numberInt": "1"
+                }
+            }, {
+                "itemid": "orderitem_kbgb1pab2",
+                "name": "Ham",
+                "quantity": 500,
+                "uom": "gms",
+                "rate": 30,
+                "discount": "",
+                "price": "",
+                "status": "Edited",
+                "serial": {
+                    "$numberInt": "1"
+                }
+            }, {
+                "itemid": "orderitem_kbgb1pab3",
+                "name": "Chicken",
+                "quantity": 500,
+                "uom": "gms",
+                "rate": 30,
+                "discount": "",
+                "price": "",
+                "status": "Edited",
+                "serial": {
+                    "$numberInt": "1"
+                }
+            }, {
+                "itemid": "orderitem_kbgb1pab4",
+                "name": "Pancakes",
+                "quantity": 500,
+                "uom": "gms",
+                "rate": 10,
+                "discount": "",
+                "price": "",
+                "status": "Edited",
+                "serial": {
+                    "$numberInt": "1"
+                }
+            }, {
+                "itemid": "orderitem_kbgb1pab5",
+                "name": "Bacon",
+                "quantity": 500,
+                "uom": "gms",
+                "rate": 30,
+                "discount": "",
+                "price": "",
+                "status": "Edited",
+                "serial": {
+                    "$numberInt": "1"
+                }
+            }, {
+                "itemid": "orderitem_kbgb1pab6",
+                "name": "Turkey",
+                "quantity": 500,
+                "uom": "gms",
+                "rate": 25,
+                "discount": "",
+                "price": "",
+                "status": "Edited",
+                "serial": {
+                    "$numberInt": "1"
+                }
+            }, {
+                "itemid": "orderitem_kbgb1pab7",
+                "name": "Burger",
+                "quantity": 500,
+                "uom": "gms",
+                "rate": 60,
+                "discount": "",
+                "price": "",
+                "status": "Edited",
+                "serial": {
+                    "$numberInt": "1"
+                }
+            }, {
+                "itemid": "orderitem_kbgb1pab8",
+                "name": "Smoothie",
+                "quantity": 500,
+                "uom": "gms",
+                "rate": 30,
+                "discount": "",
+                "price": "",
+                "status": "Edited",
+                "serial": {
+                    "$numberInt": "1"
+                }
+            }
+
+        ],
+        "location": {
+            "type": "",
+            "coordinates": ""
+        },
+        "storeImages": [],
+        "delivery": {},
+        "timings": [],
+        "documentation": [],
+        "open": "",
+        "referenceCode": "",
+        "franchiseCode": "",
+        "gcmTokens": [],
+        "isActive": "",
+        "createdAt": "",
+        "updatedAt": ""
+
+    }, {
+        "registeredStoreName": "testStore5",
+        "displayStoreName": "Test5",
+        "companyType": {},
+        "storeSize": {},
+        "storeType": "Medical",
+        "ownerName": "Abc5",
+        "ownerContact": 123455,
+        "managers": ["acd"],
+        "address": {},
+        "items": [{
+            "itemid": "orderitem_kbgb1pab",
+            "name": "Magazines",
+            "quantity": 500,
+            "uom": "gms",
+            "rate": 10,
+            "discount": "",
+            "price": "",
+            "status": "Edited",
+            "serial": {
+                "$numberInt": "1"
+            }
+        }, {
+            "itemid": "orderitem_kbgb51gw",
+            "name": "Accesories",
+            "quantity": 500,
+            "uom": "gms",
+            "rate": 40,
+            "discount": 0,
+            "price": {
+                "$numberInt": "40"
+            },
+            "status": "Added",
+            "serial": {
+                "$numberInt": "1"
+            }
+        }],
+        "location": {
+            "type": "",
+            "coordinates": ""
+        },
+        "storeImages": [],
+        "delivery": {},
+        "timings": [],
+        "documentation": [],
+        "open": "",
+        "referenceCode": "",
+        "franchiseCode": "",
+        "gcmTokens": [],
+        "isActive": "",
+        "createdAt": "",
+        "updatedAt": ""
+
+    }
+]

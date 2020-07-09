@@ -1,0 +1,533 @@
+[{
+    "user": 10,
+    "store": "testStore",
+    "items": [{
+        "itemid": "orderitem_kbgb1pab",
+        "name": "Banana",
+        "quantity": 500,
+        "uom": "gms",
+        "rate": 25,
+        "discount": "",
+        "price": "",
+        "status": "Edited",
+        "serial": {
+            "$numberInt": "1"
+        }
+    }, {
+        "itemid": "orderitem_kbgb51gw",
+        "name": "Granny Smith Apple",
+        "quantity": 500,
+        "uom": "gms",
+        "rate": 40,
+        "discount": 0,
+        "price": {
+            "$numberInt": "40"
+        },
+        "status": "Added",
+        "serial": {
+            "$numberInt": "1"
+        }
+    }, {
+        "itemid": "orderitem_kbgb51gw",
+        "name": "Strawberry",
+        "quantity": 500,
+        "uom": "gms",
+        "rate": 100,
+        "discount": 0,
+        "price": {
+            "$numberInt": "40"
+        },
+        "status": "Added",
+        "serial": {
+            "$numberInt": "1"
+        }
+    },  {
+        "itemid": "orderitem_kbgb1pab",
+        "name": "Mango",
+        "quantity": 500,
+        "uom": "gms",
+        "rate": 250,
+        "discount": "",
+        "price": "",
+        "status": "Edited",
+        "serial": {
+            "$numberInt": "1"
+        }
+    }, {
+        "itemid": "orderitem_kbgb51gw",
+        "name": "Kiwi",
+        "quantity": 500,
+        "uom": "gms",
+        "rate": 400,
+        "discount": 0,
+        "price": {
+            "$numberInt": "40"
+        },
+        "status": "Added",
+        "serial": {
+            "$numberInt": "1"
+        }
+    }, {
+        "itemid": "orderitem_kbgb51gw",
+        "name": "Blueberry",
+        "quantity": 500,
+        "uom": "gms",
+        "rate": 410,
+        "discount": 0,
+        "price": {
+            "$numberInt": "40"
+        },
+        "status": "Added",
+        "serial": {
+            "$numberInt": "1"
+        }
+    }
+
+
+],
+    "total": "",
+    "createdAt": "2020-07-09 00:57:14.315754",
+    "updatedAt": "",
+    "status":"",
+    "address":{"locality": "Shantinagar"},
+    "reasonForRejection":"",
+    "manager":{},
+    "paymentStatus":""
+},
+
+{
+    "user": 12,
+    "store": "testStore",
+    "items": [{
+        "itemid": "orderitem_kbgb1pab",
+        "name": "Banana Robesta",
+        "quantity": 500,
+        "uom": "gms",
+        "rate": 30,
+        "discount": "",
+        "price": "",
+        "status": "Edited",
+        "serial": {
+            "$numberInt": "1"
+        }
+    }, {
+        "itemid": "orderitem_kbgb51gw",
+        "name": "Modi Apple",
+        "quantity": 500,
+        "uom": "gms",
+        "rate": 50,
+        "discount": 0,
+        "price": {
+            "$numberInt": "40"
+        },
+        "status": "Added",
+        "serial": {
+            "$numberInt": "1"
+        }
+    },  {
+        "itemid": "orderitem_kbgb1pab",
+        "name": "Mango",
+        "quantity": 500,
+        "uom": "gms",
+        "rate": 250,
+        "discount": "",
+        "price": "",
+        "status": "Edited",
+        "serial": {
+            "$numberInt": "1"
+        }
+    }, {
+        "itemid": "orderitem_kbgb51gw",
+        "name": "Peach",
+        "quantity": 500,
+        "uom": "gms",
+        "rate": 300,
+        "discount": 0,
+        "price": {
+            "$numberInt": "40"
+        },
+        "status": "Added",
+        "serial": {
+            "$numberInt": "1"
+        }
+    }, {
+        "itemid": "orderitem_kbgb51gw",
+        "name": "Blueberry",
+        "quantity": 500,
+        "uom": "gms",
+        "rate": 410,
+        "discount": 0,
+        "price": {
+            "$numberInt": "40"
+        },
+        "status": "Added",
+        "serial": {
+            "$numberInt": "1"
+        }
+    }
+
+
+],
+    "total": "",
+    "createdAt": "2020-07-06 00:57:14.315754",
+    "updatedAt": "",
+    "status":"",
+    "address":{"locality": "Shantinagar"},
+    "reasonForRejection":"",
+    "manager":{},
+    "paymentStatus":""
+},
+
+{
+    "user": 100,
+    "store": "testStore2",
+    "items": [{
+        "itemid": "orderitem_kbgb1pab",
+        "name": "Banana",
+        "quantity": 500,
+        "uom": "gms",
+        "rate": 25,
+        "discount": "",
+        "price": "",
+        "status": "Edited",
+        "serial": {
+            "$numberInt": "1"
+        }
+    }, {
+        "itemid": "orderitem_kbgb51gw",
+        "name": "Mulberry",
+        "quantity": 500,
+        "uom": "gms",
+        "rate": 68,
+        "discount": 0,
+        "price": {
+            "$numberInt": "40"
+        },
+        "status": "Added",
+        "serial": {
+            "$numberInt": "1"
+        }
+    },  {
+        "itemid": "orderitem_kbgb1pab",
+        "name": "Mango",
+        "quantity": 500,
+        "uom": "gms",
+        "rate": 250,
+        "discount": "",
+        "price": "",
+        "status": "Edited",
+        "serial": {
+            "$numberInt": "1"
+        }
+    }, {
+        "itemid": "orderitem_kbgb51gw",
+        "name": "Blueberry",
+        "quantity": 500,
+        "uom": "gms",
+        "rate": 408,
+        "discount": 0,
+        "price": {
+            "$numberInt": "40"
+        },
+        "status": "Added",
+        "serial": {
+            "$numberInt": "1"
+        }
+    }
+
+
+],
+    "total": "",
+    "createdAt": "2020-07-08 00:57:14.315754",
+    "updatedAt": "",
+    "status":"",
+    "address":{"locality": "Shantinagar"},
+    "reasonForRejection":"",
+    "manager":{},
+    "paymentStatus":""
+},
+
+{
+    "user": 10,
+    "store": "testStore2",
+    "items": [{
+        "itemid": "orderitem_kbgb1pab",
+        "name": "Banana",
+        "quantity": 500,
+        "uom": "gms",
+        "rate": 25,
+        "discount": "",
+        "price": "",
+        "status": "Edited",
+        "serial": {
+            "$numberInt": "1"
+        }
+    
+    },  {
+        "itemid": "orderitem_kbgb1pab",
+        "name": "Mango Alphons",
+        "quantity": 500,
+        "uom": "gms",
+        "rate": 270,
+        "discount": "",
+        "price": "",
+        "status": "Edited",
+        "serial": {
+            "$numberInt": "1"
+        }
+    }, {
+        "itemid": "orderitem_kbgb51gw",
+        "name": "Mulberry",
+        "quantity": 500,
+        "uom": "gms",
+        "rate": 68.5,
+        "discount": 0,
+        "price": {
+            "$numberInt": "40"
+        },
+        "status": "Added",
+        "serial": {
+            "$numberInt": "1"
+        }
+    }, {
+        "itemid": "orderitem_kbgb51gw",
+        "name": "Blueberry",
+        "quantity": 500,
+        "uom": "gms",
+        "rate": 410,
+        "discount": 0,
+        "price": {
+            "$numberInt": "40"
+        },
+        "status": "Added",
+        "serial": {
+            "$numberInt": "1"
+        }
+    }
+
+
+],
+    "total": "",
+    "createdAt": "2020-07-03 00:57:14.315754",
+    "updatedAt": "",
+    "status":"",
+    "address":{"locality": "Shantinagar"},
+    "reasonForRejection":"",
+    "manager":{},
+    "paymentStatus":""
+},
+
+{
+    "user": 108,
+    "store": "testStore",
+    "items": [{
+        "itemid": "orderitem_kbgb1pab",
+        "name": "Banana",
+        "quantity": 500,
+        "uom": "gms",
+        "rate": 25,
+        "discount": "",
+        "price": "",
+        "status": "Edited",
+        "serial": {
+            "$numberInt": "1"
+        }
+    }, {
+        "itemid": "orderitem_kbgb51gw",
+        "name": "Granny Smith Apple",
+        "quantity": 500,
+        "uom": "gms",
+        "rate": 40,
+        "discount": 0,
+        "price": {
+            "$numberInt": "40"
+        },
+        "status": "Added",
+        "serial": {
+            "$numberInt": "1"
+        }
+    },  {
+        "itemid": "orderitem_kbgb1pab",
+        "name": "Mango Alphons",
+        "quantity": 500,
+        "uom": "gms",
+        "rate": 270,
+        "discount": "",
+        "price": "",
+        "status": "Edited",
+        "serial": {
+            "$numberInt": "1"
+        }
+    }, {
+        "itemid": "orderitem_kbgb51gw",
+        "name": "Kiwi",
+        "quantity": 500,
+        "uom": "gms",
+        "rate": 400,
+        "discount": 0,
+        "price": {
+            "$numberInt": "40"
+        },
+        "status": "Added",
+        "serial": {
+            "$numberInt": "1"
+        }
+    }, {
+        "itemid": "orderitem_kbgb51gw",
+        "name": "Blackberry",
+        "quantity": 500,
+        "uom": "gms",
+        "rate": 250,
+        "discount": 0,
+        "price": {
+            "$numberInt": "40"
+        },
+        "status": "Added",
+        "serial": {
+            "$numberInt": "1"
+        }
+    }
+
+
+],
+    "total": "",
+    "createdAt": "2020-07-08 00:57:14.315754",
+    "updatedAt": "",
+    "status":"",
+    "address":{"locality": "Shantinagar"},
+    "reasonForRejection":"",
+    "manager":{},
+    "paymentStatus":""
+},
+
+{
+    "user": 140,
+    "store": "testStore2",
+    "items": [{
+        "itemid": "orderitem_kbgb1pab",
+        "name": "Banana",
+        "quantity": 500,
+        "uom": "gms",
+        "rate": 25,
+        "discount": "",
+        "price": "",
+        "status": "Edited",
+        "serial": {
+            "$numberInt": "1"
+        }
+    }, {
+        "itemid": "orderitem_kbgb51gw",
+        "name": "Strawberry",
+        "quantity": 500,
+        "uom": "gms",
+        "rate": 100,
+        "discount": 0,
+        "price": {
+            "$numberInt": "40"
+        },
+        "status": "Added",
+        "serial": {
+            "$numberInt": "1"
+        }
+    
+    }, {
+        "itemid": "orderitem_kbgb51gw",
+        "name": "Kiwi",
+        "quantity": 500,
+        "uom": "gms",
+        "rate": 400,
+        "discount": 0,
+        "price": {
+            "$numberInt": "40"
+        },
+        "status": "Added",
+        "serial": {
+            "$numberInt": "1"
+        }
+    }
+
+
+],
+    "total": "",
+    "createdAt": "2020-07-09 00:57:14.315754",
+    "updatedAt": "",
+    "status":"",
+    "address":{"locality": "Shantinagar"},
+    "reasonForRejection":"",
+    "manager":{},
+    "paymentStatus":""
+},
+
+{
+    "user": 106,
+    "store": "testStore",
+    "items": [{
+        "itemid": "orderitem_kbgb1pab",
+        "name": "Banana",
+        "quantity": 500,
+        "uom": "gms",
+        "rate": 25,
+        "discount": "",
+        "price": "",
+        "status": "Edited",
+        "serial": {
+            "$numberInt": "1"
+        }
+    },   {
+        "itemid": "orderitem_kbgb1pab",
+        "name": "Kiwi",
+        "quantity": 500,
+        "uom": "gms",
+        "rate": 400,
+        "discount": "",
+        "price": "",
+        "status": "Edited",
+        "serial": {
+            "$numberInt": "1"
+        }
+    }, {
+        "itemid": "orderitem_kbgb51gw",
+        "name": "Modi Apple",
+        "quantity": 500,
+        "uom": "gms",
+        "rate": 50,
+        "discount": 0,
+        "price": {
+            "$numberInt": "40"
+        },
+        "status": "Added",
+        "serial": {
+            "$numberInt": "1"
+        }
+    }, {
+        "itemid": "orderitem_kbgb51gw",
+        "name": "Peach",
+        "quantity": 300,
+        "uom": "gms",
+        "rate": 410,
+        "discount": 0,
+        "price": {
+            "$numberInt": "40"
+        },
+        "status": "Added",
+        "serial": {
+            "$numberInt": "1"
+        }
+    }
+
+
+],
+    "total": "",
+    "createdAt": "2020-07-08 00:57:14.315754",
+    "updatedAt": "",
+    "status":"",
+    "address":{"locality": "Shantinagar"},
+    "reasonForRejection":"",
+    "manager":{},
+    "paymentStatus":""
+}
+
+
+
+]
+
